@@ -1,0 +1,30 @@
+.text-header{
+   text-align: center;
+   color: aqua;
+   font-family: 'Lucida Sans'; 
+}
+
+.text-h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+.table{
+    text-align: center;
+    border:1;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    color: yellow;
+}
+.table, th, td{
+    scroll-margin-top: 20px;
+    border: 1,5px solid black;
+    padding: 15px 30px;
+}
+
+.text-tr{
+    text-align: center;
+    background-color: aqua;
+}
+
+    
